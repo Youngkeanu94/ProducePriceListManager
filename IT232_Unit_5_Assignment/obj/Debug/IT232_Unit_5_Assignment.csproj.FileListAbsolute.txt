@@ -1,0 +1,8 @@
+C:\Users\hunte\source\repos\IT232_Unit_5_Assignment\obj\Debug\IT232_Unit_5_Assignment.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\IT232_Unit_5_Assignment\obj\Debug\IT232_Unit_5_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\hunte\source\repos\IT232_Unit_5_Assignment\obj\Debug\IT232_Unit_5_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\IT232_Unit_5_Assignment\bin\Debug\IT232_Unit_5_Assignment.exe.config
+C:\Users\hunte\source\repos\IT232_Unit_5_Assignment\bin\Debug\IT232_Unit_5_Assignment.exe
+C:\Users\hunte\source\repos\IT232_Unit_5_Assignment\bin\Debug\IT232_Unit_5_Assignment.pdb
+C:\Users\hunte\source\repos\IT232_Unit_5_Assignment\obj\Debug\IT232_Unit_5_Assignment.exe
+C:\Users\hunte\source\repos\IT232_Unit_5_Assignment\obj\Debug\IT232_Unit_5_Assignment.pdb
